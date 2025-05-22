@@ -1,2 +1,3 @@
 Bonjour le monde !
 Bienvenue sur notre application
+Nous sommes ravis de vous accueillir.
